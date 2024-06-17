@@ -64,7 +64,7 @@ a:hover {
 pre {
 	text-align: left !important;
 	color: rgb(8,222,152) !important;
-	font: 10px monospace;
+	font: 0.5rem monospace;
 }
 
 .highlighter-rouge {
