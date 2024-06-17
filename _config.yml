@@ -1,6 +1,6 @@
 # Site specific settings
-title: "Title to this website"
-name: "Website name"
+title: "Welcome, I'm Dahyun Chae"
+name: "Portfolio"
 keywords: "Key, words, about, this, website"
 baseurl: ""
 url: "https://ekgus419.github.io"
@@ -10,7 +10,7 @@ fanpage_id: ""
 
 # Site general settings
 lang: "en"
-lang_alternate: "pt_BR"
+#lang_alternate: "pt_BR"
 ssl: false # It will redirect to https
 
 # Media

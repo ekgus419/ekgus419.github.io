@@ -62,7 +62,9 @@ a:hover {
 }
 
 pre {
-	font-family: monospace;
+	text-align: left !important;
+	color: rgb(8,222,152) !important;
+	font: 10px monospace;
 }
 
 .highlighter-rouge {

@@ -1,0 +1,24 @@
+---
+title: "education-certificate"
+description: "what I studied"
+categories: edu
+---
+## 한국방송통신대학교
+`2019.09 - 2022.02`
+- 컴퓨터 과학과 졸업
+
+## (NCS) Java Hybrid app development
+`2016.04 - 2016.09`
+- 직업 능력 개발 훈련 과정 수료
+
+## 정보처리기사
+`2022.11`
+
+## SQLD 
+`2021.04`
+
+## 리눅스마스터 2급 
+`2019.07`
+
+## 정보처리산업기사 
+`2018.05`
